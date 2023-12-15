@@ -1,0 +1,3 @@
+[submodule "frontend-application"]
+	path = frontend-application
+	url = https://github.com/DaniilZotin/ReactPythonSubLib
